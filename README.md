@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![plot](./assets/final.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
